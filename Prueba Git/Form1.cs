@@ -9,7 +9,7 @@ namespace Prueba_Git
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Chin, Ya debes los Tacos","Sistema de Tacos 2.0", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Chin, Ya debes los Tacos","Sistema de Tacos 2.0 =P", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
