@@ -14,3 +14,4 @@ C:\Users\GMG012\Documents\BPO\Pruebas Git\Prueba Git\Prueba Git\obj\Debug\net8.0
 C:\Users\GMG012\Documents\BPO\Pruebas Git\Prueba Git\Prueba Git\obj\Debug\net8.0-windows\Prueba Git.pdb
 C:\Users\GMG012\Documents\BPO\Pruebas Git\Prueba Git\Prueba Git\obj\Debug\net8.0-windows\Prueba Git.genruntimeconfig.cache
 C:\Users\GMG012\Documents\BPO\Pruebas Git\Prueba Git\Prueba Git\obj\Debug\net8.0-windows\ref\Prueba Git.dll
+C:\Users\GMG012\Documents\BPO\Pruebas Git\Prueba Git\Prueba Git\obj\Debug\net8.0-windows\Prueba Git.sourcelink.json

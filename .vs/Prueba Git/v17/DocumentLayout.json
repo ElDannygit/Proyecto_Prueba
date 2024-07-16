@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3CC11DE7-21A2-43B2-810C-1D388D818939}|Prueba Git\\Prueba Git.csproj|solutionrelative:prueba git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CC11DE7-21A2-43B2-810C-1D388D818939}|Prueba Git\\Prueba Git.csproj|c:\\users\\gmg012\\documents\\bpo\\pruebas git\\prueba git\\prueba git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3CC11DE7-21A2-43B2-810C-1D388D818939}|Prueba Git\\Prueba Git.csproj|C:\\Users\\GMG012\\Documents\\BPO\\Pruebas Git\\Prueba Git\\prueba git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CC11DE7-21A2-43B2-810C-1D388D818939}|Prueba Git\\Prueba Git.csproj|solutionrelative:prueba git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Prueba Git\\Form1.cs",
               "ToolTip": "C:\\Users\\GMG012\\Documents\\BPO\\Pruebas Git\\Prueba Git\\Prueba Git\\Form1.cs",
               "RelativeToolTip": "Prueba Git\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T21:25:23.233Z",
               "EditorCaption": ""
@@ -42,8 +46,7 @@
               "ToolTip": "C:\\Users\\GMG012\\Documents\\BPO\\Pruebas Git\\Prueba Git\\Prueba Git\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Prueba Git\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:24:24.337Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-15T21:24:24.337Z"
             }
           ]
         }
